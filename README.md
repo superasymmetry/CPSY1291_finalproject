@@ -1,1 +1,1 @@
-# CPSY1291_finalproject
+# How do Harmonized CNNs depend on different spatial frequency in images?
